@@ -184,7 +184,7 @@ body::-webkit-scrollbar{
 #page3 h1{
     font-size: 8vw;
     font-weight: 300;
-    color:#fff;
+    color:#000;
     margin-left: 5vw;
 }
 
@@ -202,8 +202,8 @@ body::-webkit-scrollbar{
     /* gap: 8vw; */
     flex-shrink: 0;
     padding: 1vw 0;
-    border-top: #edbfff 2px solid;
-    border-bottom: #edbfff 2px solid;
+    border-top: #8c53a2 2px solid;
+    border-bottom: #8c53a2 2px solid;
     animation-name: scroll;
     animation-timing-function: linear;
     animation-duration: 30s;
@@ -213,10 +213,10 @@ body::-webkit-scrollbar{
 .cont h3{
     font-size: 3vw;
     font-weight: 400;
-    color:#fff;
+    color:#000;
     text-transform: uppercase;
     padding:0 5vw; 
-    border-right: #ddd8d8 2px solid;
+    border-right: #6e6868 2px solid;
     white-space: nowrap;
 }
 
@@ -237,4 +237,4 @@ body::-webkit-scrollbar{
     margin-top: 5vw;
     /* background-color:red; */
 }
-    
+

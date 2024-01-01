@@ -133,7 +133,7 @@ function page3(){
         },
     });
     tl3.to(".main",{
-        backgroundColor:"#000",
+        // backgroundColor:"#000",
     },"p3");
 }
 page3()
